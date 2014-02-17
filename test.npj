@@ -1,0 +1,11 @@
+test/
+test/stories/
+test/stories/in progress/
+test/stories/in test/
+test/stories/completed/
+test/stories/accepted/
+test/stories/storyone.nst
+test/stories/storytwo.nst
+test/stories/storythree.nst
+test/stories/storyfour.nst
+test/resources/
